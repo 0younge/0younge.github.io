@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0younge.github.io/Chordot/sitemap.xml
